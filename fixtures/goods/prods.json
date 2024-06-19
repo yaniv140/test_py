@@ -1,0 +1,134 @@
+[
+    {
+        "category_id": 4,
+        "description": "Стильна жіноча блузка білого кольру.",
+        "discount": 45,
+        "id": 3,
+        "img": "goods_images/bluzka-women-1.jpg",
+        "name": "Блузка жіноча біла",
+        "price": 1200,
+        "quantity": 0,
+        "slug": "bluzka-zhinocha-bila"
+    },
+    {
+        "category_id": 4,
+        "description": "Стильна жіноча блуза.Підкреслить вашу індивідуальність",
+        "discount": 0,
+        "id": 4,
+        "img": "goods_images/bluza-women-black_QwEvVWh.jpg",
+        "name": "Блуза жіноча чорна",
+        "price": 1500,
+        "quantity": 0,
+        "slug": "bluza-zhinocha-chorna"
+    },
+    {
+        "category_id": 5,
+        "description": "Стильні жіночі джинси....",
+        "discount": 0,
+        "id": 5,
+        "img": "goods_images/jeans-women.jpg",
+        "name": "Джинси жіночі",
+        "price": 1300,
+        "quantity": 0,
+        "slug": "dzhinsi-zhinochi"
+    },
+    {
+        "category_id": 5,
+        "description": "Класичні........",
+        "discount": 0,
+        "id": 6,
+        "img": "goods_images/jeans-men.jpg",
+        "name": "Джинси чоловічі",
+        "price": 1200,
+        "quantity": 0,
+        "slug": "dzhinsi-cholovichi"
+    },
+    {
+        "category_id": 7,
+        "description": "Ваза для квітів,декоративна.",
+        "discount": 0,
+        "id": 7,
+        "img": "goods_images/vasa.jpg",
+        "name": "Ваза",
+        "price": 200,
+        "quantity": 0,
+        "slug": "vaza"
+    },
+    {
+        "category_id": 6,
+        "description": "Широкий стильний шкіряний ремінь",
+        "discount": 0,
+        "id": 8,
+        "img": "goods_images/belt-1.jpg",
+        "name": "Шкіряний ремінь",
+        "price": 500,
+        "quantity": 0,
+        "slug": "shkiryanij-remin"
+    },
+    {
+        "category_id": 2,
+        "description": "Чудова.....",
+        "discount": 0,
+        "id": 9,
+        "img": "goods_images/Suknia.jpg",
+        "name": "Сукня",
+        "price": 4000,
+        "quantity": 0,
+        "slug": "suknya"
+    },
+    {
+        "category_id": 3,
+        "description": "Класична чорна сорочка slim-fit",
+        "discount": 0,
+        "id": 10,
+        "img": "goods_images/sorochka-men-black.jpg",
+        "name": "Сорочка чоловіча чорна",
+        "price": 1000,
+        "quantity": 0,
+        "slug": "sorochka-cholovicha-chorna"
+    },
+    {
+        "category_id": 3,
+        "description": "Стильна біла сорочка для чоловіка.",
+        "discount": 0,
+        "id": 11,
+        "img": "goods_images/sorochka-men-1.jpg",
+        "name": "Сорочка чоловіча біла",
+        "price": 1000,
+        "quantity": 0,
+        "slug": "sorochka-cholovicha-bila"
+    },
+    {
+        "category_id": 2,
+        "description": "Дизайнерський весільний костюм для чоловіка.",
+        "discount": 0,
+        "id": 12,
+        "img": "goods_images/costum-men-2.jpg",
+        "name": "Костюм чоловічий весільний",
+        "price": 4000,
+        "quantity": 0,
+        "slug": "kostyum-cholovichij-vesilnij"
+    },
+    {
+        "category_id": 2,
+        "description": "Костюм, дуже стильний на вид, зеленого кольору. Класичного крою.",
+        "discount": 5,
+        "id": 13,
+        "img": "goods_images/costum-men-1.jpg",
+        "name": "Чоловічий костюм",
+        "price": 3500,
+        "quantity": 0,
+        "slug": "cholovichij-kostyum"
+    },
+    {
+        "category_id": 3,
+        "description": "Била........",
+        "discount": 2,
+        "id": 14,
+        "img": "",
+        "name": "Майка",
+        "price": 50,
+        "quantity": 0,
+        "slug": "majka"
+    }
+]
